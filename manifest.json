@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "predmaxim.appimages",
+  "name": "AppImages",
+  "version": "1.0.0",
+  "author": "predmaxim",
+  "description": "AppImages in ~/AppImages: add them to the app menu, remove, update from GitHub releases",
+  "kinds": [
+    "panel"
+  ],
+  "entryPoints": {
+    "panel": "Panel.qml"
+  }
+}
